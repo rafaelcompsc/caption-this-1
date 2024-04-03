@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Git Hub learning!"
 ---
 
-Caption here
+On top of the world 
 
-![saritocat](https://octodex.github.com/images/saritocat.png)
+![saritocat](https://octodex.github.com/yogitocat/)
 {: .center}
