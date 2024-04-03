@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Git rocks"
 ---
 
 Caption here
 
-![dojocat](https://octodex.github.com/images/dojocat.jpg)
+![dojocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
 {: .center}
