@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Git training"
 ---
 
-Caption here
+minion
 
-![femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
+![femalecodertocat](https://octodex.github.com/minion/)
 {: .center}
