@@ -1,9 +1,10 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our slide deck for Shehzad!"
 ---
 
-Caption here
+Welcome to Shehzad's Slide
 
-![orderedlistocat](https://octodex.github.com/images/orderedlistocat.png)
+![orderedlistocat](https://octodex.github.com/images/parentocats.png)
+
 {: .center}
