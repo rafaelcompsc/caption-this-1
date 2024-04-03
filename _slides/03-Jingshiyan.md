@@ -5,5 +5,5 @@ title: "Git training"
 
 minion
 
-![femalecodertocat](https://octodex.github.com/minion/)
+![minion](https://octodex.github.com/images/minion.png)
 {: .center}
