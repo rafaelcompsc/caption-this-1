@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Updated Caption
+This is awesome!
 
 ![labtocat](https://octodex.github.com/images/labtocat.png)
 {: .center}
