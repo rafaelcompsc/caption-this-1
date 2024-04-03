@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+It's playing Michael Jackson!
 
-![minertocat](https://octodex.github.com/images/minertocat.png)
+![minertocat](https://octodex.github.com/images/vinyltocat.png)
 {: .center}
