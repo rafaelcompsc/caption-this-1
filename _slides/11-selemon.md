@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Selemon's slide deck!"
 ---
 
-Caption here
+This is Selemon's aption
 
-![constructocat](https://octodex.github.com/images/constructocat2.jpg)
+![constructocat](https://octodex.github.com/images/Fintechtocat.png)
 {: .center}
